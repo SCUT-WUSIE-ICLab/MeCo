@@ -2,4 +2,4 @@
 MeCo, a novel federated continual learning framework tailored for industrial edge systems.
 
 ## Code
-The codes will be availalbe soon.
+A more detailed version of the code will be available shortly.
